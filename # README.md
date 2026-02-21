@@ -93,6 +93,9 @@ This project reflects:
 * Deploy on cloud platform
 * Add automated testing
 
+## Declaration
+This project was built as part of the Cryptonic Area Virtual Python Internship Program. It showcases the practical application of Python concepts and hands-on experience gained during the internship.
+
 ---
 
 ## Author
