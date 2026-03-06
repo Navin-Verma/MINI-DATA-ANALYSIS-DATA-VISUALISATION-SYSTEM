@@ -1,3 +1,9 @@
+# Expense Tracker (Python)
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 # Mini Data Analysis & Visualization System
 
 ### Industry-Style End-to-End Data Analytics Project
