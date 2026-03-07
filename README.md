@@ -1,4 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Library](https://img.shields.io/badge/Library-Pandas%20%7C%20Matplotlib-orange)
+![Data](https://img.shields.io/badge/Data-CSV-yellow)
+![Project Type](https://img.shields.io/badge/Project-Data%20Analysis-green)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 
@@ -48,22 +51,11 @@ To build a structured data processing pipeline that:
 
 ### Visualization
 
-Created professional visualizations using:
-* `Matplotlib`
-* `Seaborn`
-
-Includes:
-* Bar Charts
-* Histograms
 <img width="562" height="419" alt="project3 9" src="https://github.com/user-attachments/assets/58103b21-a868-434e-96ee-8e4db382aa69" />
 <img width="556" height="418" alt="project3 6" src="https://github.com/user-attachments/assets/23bf57ab-796f-4d5d-a901-d2d798465c25" />
 <img width="562" height="419" alt="project3 9" src="https://github.com/user-attachments/assets/54dac417-b9f7-4590-ac0f-06032b599b63" />
-
-* Heatmaps
 <img width="557" height="419" alt="project3 7" src="https://github.com/user-attachments/assets/25cee680-bd02-4d64-8dc9-26d6a874b766" />
 
-* Category Comparisons
-* Line Graphs
 
 ### Reporting & Export
 
